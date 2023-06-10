@@ -1,4 +1,4 @@
-# the-real-app
+# gym-buddy-app
 
 ## Project setup
 ```
