@@ -1,4 +1,4 @@
-# gym-buddy-app
+# Gym-Buddy-App
 
 ## Project setup
 ```
