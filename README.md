@@ -1,6 +1,6 @@
 # Gym-Buddy-App
 
-This project is a web application designed to help users find workout partners, track their fitness goals, and stay motivated. It uses Vue.js for the frontend and Node.js for the backend.
+This project is a web application designed to help users find workout partners, track their fitness goals, and stay motivated. It uses Vue.js for the frontend and Firebase for the backend.
 
 ## Table of Contents
 
